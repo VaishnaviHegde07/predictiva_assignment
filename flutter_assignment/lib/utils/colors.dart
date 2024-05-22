@@ -7,4 +7,7 @@ class ColorPalette {
   static const Color lightgrey = Color(0xff9E9EA5);
   static const Color whiteColor = Colors.white;
   static const Color lightWhite = Color(0xffEDEDF0);
+  static const Color appbarColor = Color(0xff151515);
+  static const Color lightgrey2 = Color(0xffB1B1B8);
+  static const Color pageNoColor = Color(0xffE1E1E5);
 }
