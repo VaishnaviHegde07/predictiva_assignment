@@ -20,6 +20,5 @@ flutter run
 
 The portfolio and trade orders data used in this application are fetched from the API. The DashboardScreen fetches and displays user portfolio and orders data from /accounts/portfolio and orders/open endpoints, respectively, using DashboardController. 
 
-![Screenshot_1716368777](https://github.com/VaishnaviHegde07/predictiva_assignment/assets/55388139/101a669b-b5e7-46ba-8835-6503662c8c74)
-![Screenshot_1716368780](https://github.com/VaishnaviHegde07/predictiva_assignment/assets/55388139/cc4f7c3a-bbcc-4e0b-b170-21b36b0d6ae2)
-![Screenshot_1716368786](https://github.com/VaishnaviHegde07/predictiva_assignment/assets/55388139/7a078047-c02e-42a5-a894-6c62fc6b08eb)
+![snapshots](https://github.com/VaishnaviHegde07/predictiva_assignment/assets/55388139/5b02ac0d-dd6a-4bf4-ab87-57e21e115fd9)
+
