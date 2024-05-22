@@ -1,16 +1,21 @@
-# flutter_assignment
+# predictiva_assignment
 
-A new Flutter project.
+**Installation**
 
-## Getting Started
+To run this project on your desktop, follow these steps:
 
-This project is a starting point for a Flutter application.
+Clone the Repository: Start by cloning this repository to your local machine. (https://github.com/VaishnaviHegde07/predictiva_assignment)
 
-A few resources to get you started if this is your first Flutter project:
+Open in Visual Studio Code/Android Studio: Open the project in your preferred development environment, such as Visual Studio Code or Android Studio.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Connect Device or Emulator: Connect your physical Android device to your computer or set up an emulator.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Choose Device: Ensure that your device/emulator is recognized by your development environment.
+
+Run the Application: Open the application terminal within your development environment and navigate to the project directory. Then, run the following command to start the application:
+
+flutter run
+
+**Data Source Information**
+
+The portfolio and trade orders data used in this application are fetched from the API. The DashboardScreen fetches and displays user portfolio and orders data from /accounts/portfolio and orders/open endpoints, respectively, using DashboardController. 
